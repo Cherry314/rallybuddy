@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66592475440",
+    "firebase_url": "https://bob-comms.firebaseio.com",
+    "project_id": "bob-comms",
+    "storage_bucket": "bob-comms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66592475440:android:6f384f4be47641035820f5",
+        "android_client_info": {
+          "package_name": "com.meifodsoftware.rallybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66592475440-enmbd3b1jj3jd53437q70eudilbufgdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iIR4w_A04XM2ThtzUNh9TD5YPs1wpo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66592475440-enmbd3b1jj3jd53437q70eudilbufgdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
